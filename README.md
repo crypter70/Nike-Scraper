@@ -1,10 +1,12 @@
 # Nike-Scraper
  
 ## Overview
+Web Scraper program to extract products data from Nike website using Playwright. Playwright is an open-source Node.js library developed by Microsoft for cross-browser web automation and testing. The data retrieved include product name, category, number of colors, and prices which are then exported into csv and json.
 
 URL: https://www.nike.com/id/w/mens-shoes-nik1zy7ok
 
 Website:
+<img width="1552" alt="Screenshot 2023-07-25 at 17 32 41" src="https://github.com/crypter70/Nike-Scraper/assets/74947224/e93826cf-c562-48e7-8e94-61d4fff8ea30">
 
 
 ## Prerequisite
