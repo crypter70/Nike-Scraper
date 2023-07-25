@@ -41,7 +41,7 @@ def parse_data():
             else:
                 break
 
-            print(f"Halaman {num_scrolls}")
+            print(f"Page {num_scrolls} completed")
 
         parsed = []
 
