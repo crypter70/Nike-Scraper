@@ -28,7 +28,7 @@ playwright install
 ```
 
 ## Disclaimer 
-This code is intended for educational purposes. Please respect privacy, copyright and code and data terms of use. Read more about Tokopedia [here](https://www.tokopedia.com/terms?lang=en).
+This code is intended for educational purposes. Please respect privacy, copyright and code and data terms of use. Read more about Nike [here](https://agreementservice.svs.nike.com/us/en_us/rest/agreement?agreementType=termsOfUse&uxId=com.nike.commerce.nikedotcom.web&country=US&language=en&requestType=redirect).
 
 ## Rules
 1. Do not retrieve unnecessary data
