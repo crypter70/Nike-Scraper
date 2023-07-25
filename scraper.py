@@ -24,7 +24,7 @@ def parse_data():
     # initialize maximum scrolls as input
     max_scrolls = int(input("Max scrolls: "))
 
-    # define 
+    # initialize playwright
     with sync_playwright() as p:
         # initialize browser, launce driver, go to the url, and wait 5 secs
         browser = p.chromium.launch(headless=False)
@@ -38,13 +38,15 @@ def parse_data():
         stream_boxes = None
         num_scrolls = 0
 
-        # looping to get all elements and store it to the stream_boxes, while looping perform the scroll process  
+        # loop to get all elements and store them in stream_boxes, while performing the scroll process
         while num_scrolls < max_scrolls:
             stream_boxes = page.locator("//div[contains(@class,'css-hvew4t')]/div[@data-testid]")
             stream_boxes.element_handles()[-1].scroll_into_view_if_needed()
             items_on_page = len(stream_boxes.element_handles())
             page.wait_for_timeout(2_000) 
             items_on_page_after_scroll = len(stream_boxes.element_handles())
+
+            # check if new items are loaded after scrolling, if yes, increment the scroll count
             if items_on_page_after_scroll > items_on_page:
                 num_scrolls += 1  
             else:
@@ -55,7 +57,7 @@ def parse_data():
         # initialize list to store data
         parsed = []
 
-        # looping to extract data as text from selector
+        # loop to extract data as text from selector
         for box in stream_boxes.element_handles():
             parsed.append(
                 {
