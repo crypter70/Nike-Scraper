@@ -1,0 +1,866 @@
+[
+    {
+        "product_name": "Nike Air Force 1 '07",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,549,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 '07",
+        "category": "Men's Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "Nike Air Max AP",
+        "category": "Men's Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a01,429,000"
+    },
+    {
+        "product_name": "NikeCourt Legacy Next Nature",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a0889,000"
+    },
+    {
+        "product_name": "Nike Air Max 90",
+        "category": "Men's Shoe",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a01,799,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 '07 EasyOn",
+        "category": "Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "Nike Air Huarache Runner",
+        "category": "Men's Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a02,199,000"
+    },
+    {
+        "product_name": "Jordan Max Aura 5",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,099,000"
+    },
+    {
+        "product_name": "Freak 5 EP",
+        "category": "Basketball Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,939,000"
+    },
+    {
+        "product_name": "Nike Air Max Plus III",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,989,000"
+    },
+    {
+        "product_name": "Nike ACG Mountain Fly 2 Low",
+        "category": "Men's Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a02,379,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 '07",
+        "category": "Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 '07 LV8",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,909,000"
+    },
+    {
+        "product_name": "Nike Waffle Debut SE",
+        "category": "Men's shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,149,000"
+    },
+    {
+        "product_name": "Nike Metcon 9 AMP",
+        "category": "Men's Training Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,199,000"
+    },
+    {
+        "product_name": "Nike Air Trainer 1",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,099,000"
+    },
+    {
+        "product_name": "Nike Air Huarache Runner",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,199,000"
+    },
+    {
+        "product_name": "Nike Go FlyEase",
+        "category": "Easy On/Off Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a02,059,000"
+    },
+    {
+        "product_name": "Air Jordan 1 Retro High OG",
+        "category": "Men's Shoes",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a02,418,000"
+    },
+    {
+        "product_name": "Nike SB Force 58 Premium",
+        "category": "Skate Shoe",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,169,000"
+    },
+    {
+        "product_name": "Air Jordan 1 Low x Eastside Golf",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,059,000"
+    },
+    {
+        "product_name": "Air Jordan 1 Low",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "Nike Dunk Low Retro SE",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "Air Jordan 11 Retro Low",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a03,049,000"
+    },
+    {
+        "product_name": "Nike SB Force 58",
+        "category": "Skate Shoe",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,099,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 Low By You",
+        "category": "Custom Men's Shoes",
+        "colors_count": "8 Colours",
+        "price": "Rp\u00a01,909,000"
+    },
+    {
+        "product_name": "Nike Dunk Low",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,909,000"
+    },
+    {
+        "product_name": "Nike Air Presto",
+        "category": "Men's Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a01,678,000"
+    },
+    {
+        "product_name": "Nike Cortez",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,299,000"
+    },
+    {
+        "product_name": "Nike P-6000",
+        "category": "Shoe",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,429,000"
+    },
+    {
+        "product_name": "Nike Dunk Low Retro Premium",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 '07 LX NBHD",
+        "category": "Men's Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a02,099,000"
+    },
+    {
+        "product_name": "Air Jordan 1 Low SE",
+        "category": "Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,649,000"
+    },
+    {
+        "product_name": "Nike Dunk Low SE",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "Nike Dunk Hi Retro",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,578,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 '07 Fresh",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,099,000"
+    },
+    {
+        "product_name": "Nike Air Max 97 SE",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,988,000"
+    },
+    {
+        "product_name": "Nike Air Max Pulse",
+        "category": "Men's Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a02,379,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 Mid x Off-White \u2122",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a03,049,000"
+    },
+    {
+        "product_name": "Nike Dunk Mid",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,859,000"
+    },
+    {
+        "product_name": "Nike ACG Air Zoom Gaiadome GORE-TEX",
+        "category": "Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,728,000"
+    },
+    {
+        "product_name": "Nike Air Max 97",
+        "category": "Men's Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a02,389,000"
+    },
+    {
+        "product_name": "Nike Free Metcon 5",
+        "category": "Men's Training Shoes",
+        "colors_count": "7 Colours",
+        "price": "Rp\u00a01,909,000"
+    },
+    {
+        "product_name": "Nike SB Nyjah 3",
+        "category": "Skate Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,048,000"
+    },
+    {
+        "product_name": "Nike Zoom Vomero 5 SP",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,489,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 Low x Slam Jam",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,669,000"
+    },
+    {
+        "product_name": "Nike Blazer Mid '77 Vintage",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,429,000"
+    },
+    {
+        "product_name": "Nike SB Chron 2",
+        "category": "Skate Shoe",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a0999,000"
+    },
+    {
+        "product_name": "Jordan Why Not .6 PF",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,379,000"
+    },
+    {
+        "product_name": "Air Jordan 2 Retro Low Titan",
+        "category": "Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,808,000"
+    },
+    {
+        "product_name": "Nike Air Max 1 Premium",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,489,000"
+    },
+    {
+        "product_name": "Nike Blazer Low '77 SE",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,499,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 '07 LV8 EMB",
+        "category": "Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,618,000"
+    },
+    {
+        "product_name": "Air Jordan I High G",
+        "category": "Men's Golf Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,849,000"
+    },
+    {
+        "product_name": "Nike Air Max LTD 3",
+        "category": "Men's Shoe",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,899,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 React",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,249,000"
+    },
+    {
+        "product_name": "Nike Elevate 3",
+        "category": "Basketball Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a01,149,000"
+    },
+    {
+        "product_name": "Air Jordan 1 Retro High OG Craft",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,849,000"
+    },
+    {
+        "product_name": "Nike Invincible 3",
+        "category": "Men's Road Running Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a02,849,000"
+    },
+    {
+        "product_name": "Nike Air Max 90 G",
+        "category": "Golf Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,099,000"
+    },
+    {
+        "product_name": "Air Jordan 13 Retro",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,889,000"
+    },
+    {
+        "product_name": "Nike Blazer Low '77 Jumbo",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,459,000"
+    },
+    {
+        "product_name": "AJKO 1",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,199,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 '07 LV8",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,909,000"
+    },
+    {
+        "product_name": "Air Jordan 7 Retro SE",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,238,000"
+    },
+    {
+        "product_name": "Nike Dunk High Premium",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,129,000"
+    },
+    {
+        "product_name": "Air Jordan 1 Zoom CMFT 2",
+        "category": "Men's Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a02,249,000"
+    },
+    {
+        "product_name": "Nike Air Max 1 Premium",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,489,000"
+    },
+    {
+        "product_name": "Nike Air Max 97 SE",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,128,000"
+    },
+    {
+        "product_name": "Nike Pegasus FlyEase SE",
+        "category": "Men's Easy On/Off Road Running Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,909,000"
+    },
+    {
+        "product_name": "Nike Vaporfly 3",
+        "category": "Men's Road Racing Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a03,399,000"
+    },
+    {
+        "product_name": "Zion 2 PF",
+        "category": "Basketball Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,909,000"
+    },
+    {
+        "product_name": "Air Jordan 1 Mid SE",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,129,000"
+    },
+    {
+        "product_name": "Nike x Jacquemus Air Humara LX",
+        "category": "Women's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,669,000"
+    },
+    {
+        "product_name": "Nike Mercurial Vapor 15 Academy",
+        "category": "Indoor Court Football Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,279,000"
+    },
+    {
+        "product_name": "Nike Zoom Mercurial Superfly 9 Academy XXV MG",
+        "category": "Multi-Ground Football Boot",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,499,000"
+    },
+    {
+        "product_name": "Nike Zoom Mercurial Vapor 15 Elite FG By You",
+        "category": "Custom Firm-Ground Football Boot",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a04,369,000"
+    },
+    {
+        "product_name": "Nike Air Max 95 By You",
+        "category": "Custom Men's Shoe",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a03,119,000"
+    },
+    {
+        "product_name": "Nike Zoom Mercurial Vapor 15 Elite XXV FG",
+        "category": "Firm-Ground Football Boot",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a03,889,000"
+    },
+    {
+        "product_name": "Nike Blazer Low '77",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,499,000"
+    },
+    {
+        "product_name": "Nike SB Zoom Janoski OG+",
+        "category": "Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,499,000"
+    },
+    {
+        "product_name": "Jumpman Two Trey",
+        "category": "Men's Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a02,329,000"
+    },
+    {
+        "product_name": "NikeCourt Zoom Vapor Cage 4 Rafa",
+        "category": "Men's Hard Court Tennis Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a02,279,000"
+    },
+    {
+        "product_name": "Nike E-Series 1.0",
+        "category": "Men's Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a01,549,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 Low Retro",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,379,000"
+    },
+    {
+        "product_name": "Nike Air Trainer 1",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,909,000"
+    },
+    {
+        "product_name": "Nike x MMW 005",
+        "category": "Men's Slides",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,849,000"
+    },
+    {
+        "product_name": "Nike Dunk High By You",
+        "category": "Custom Men's Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a02,449,000"
+    },
+    {
+        "product_name": "Nike In-Season TR 13",
+        "category": "Men's Training Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a01,149,000"
+    },
+    {
+        "product_name": "Nike Oneonta Next Nature",
+        "category": "Men's Sandals",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a01,069,000"
+    },
+    {
+        "product_name": "Nike Structure 24",
+        "category": "Men's Road Running Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,799,000"
+    },
+    {
+        "product_name": "Air Jordan 7 Retro",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a03,099,000"
+    },
+    {
+        "product_name": "Nike Pegasus Turbo Next Nature SE",
+        "category": "Men's Road Running Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,379,000"
+    },
+    {
+        "product_name": "Nike Tanjun EasyOn",
+        "category": "Men's shoes",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a01,029,000"
+    },
+    {
+        "product_name": "Nike City Rep TR",
+        "category": "Men's Training Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a0799,000"
+    },
+    {
+        "product_name": "Nike Zoom Mercurial Vapor 15 Academy XXV MG",
+        "category": "Multi-Ground Football Boot",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,299,000"
+    },
+    {
+        "product_name": "Nike SuperRep Go 3 Next Nature Flyknit",
+        "category": "Men's Workout Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a01,499,000"
+    },
+    {
+        "product_name": "Nike Phantom GX Academy MG By You",
+        "category": "Custom Multi-Ground Football Boot",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a01,939,000"
+    },
+    {
+        "product_name": "Nike Air Max 95 Unlocked By You",
+        "category": "Custom Men's Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a03,249,000"
+    },
+    {
+        "product_name": "Nike Air Max SYSTM",
+        "category": "Men's Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a01,459,000"
+    },
+    {
+        "product_name": "NikeCourt Legacy",
+        "category": "Men's Shoes",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a01,029,000"
+    },
+    {
+        "product_name": "Nike Offline 3.0",
+        "category": "Mules",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "LeBron Witness 7 EP",
+        "category": "Basketball Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a01,499,000"
+    },
+    {
+        "product_name": "Nike Air Penny 2",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,688,000"
+    },
+    {
+        "product_name": "Nike Gripknit Phantom GX Elite FG By You",
+        "category": "Custom Football Boot",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a04,749,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 Mid '07",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,909,000"
+    },
+    {
+        "product_name": "Nike Air Flight Huarache",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,129,000"
+    },
+    {
+        "product_name": "Nike Fly.By Mid 3",
+        "category": "Basketball Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a0819,000"
+    },
+    {
+        "product_name": "Nike Metcon 9 By You",
+        "category": "Custom Men's Training Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a02,489,000"
+    },
+    {
+        "product_name": "NikeCourt Air Zoom Lite 3",
+        "category": "Men's Tennis Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a01,069,000"
+    },
+    {
+        "product_name": "Nike Vomero 16",
+        "category": "Men's Road Running Shoes",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a02,279,000"
+    },
+    {
+        "product_name": "Nike Air VaporMax 2023 Flyknit",
+        "category": "Men's Shoes",
+        "colors_count": "7 Colours",
+        "price": "Rp\u00a03,269,000"
+    },
+    {
+        "product_name": "Jordan ADG 4",
+        "category": "Men's Golf Shoes",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a02,889,000"
+    },
+    {
+        "product_name": "Nike Air Alpha Force 88",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,099,000"
+    },
+    {
+        "product_name": "Jordan Why Not .6 PF",
+        "category": "Men's Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a02,018,000"
+    },
+    {
+        "product_name": "Nike Zegama",
+        "category": "Men's Trail-Running Shoes",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a02,329,000"
+    },
+    {
+        "product_name": "Cosmic Unity 3",
+        "category": "Basketball Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,489,000"
+    },
+    {
+        "product_name": "Jordan Stadium 90",
+        "category": "Men's Shoes",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a02,199,000"
+    },
+    {
+        "product_name": "Nike Free Run 5.0",
+        "category": "Men's Road Running Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a01,429,000"
+    },
+    {
+        "product_name": "Nike Juniper Trail 2",
+        "category": "Men's Trail-Running Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a01,149,000"
+    },
+    {
+        "product_name": "NOCTA x Nike Hot Step Air Terra",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,849,000"
+    },
+    {
+        "product_name": "Air Jordan 5 x DJ Khaled",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,808,000"
+    },
+    {
+        "product_name": "Nike Air Max 90",
+        "category": "Men's Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a01,869,000"
+    },
+    {
+        "product_name": "Nike Air Max Solo",
+        "category": "Men's Shoes",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a01,549,000"
+    },
+    {
+        "product_name": "Nike Infinity Ace Next Nature",
+        "category": "Golf Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,549,000"
+    },
+    {
+        "product_name": "Nike Air Max 1 '87 By You",
+        "category": "Custom Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a02,849,000"
+    },
+    {
+        "product_name": "Nike Offcourt Adjust",
+        "category": "Men's Slides",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a0609,000"
+    },
+    {
+        "product_name": "KD15 EP",
+        "category": "Basketball Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,379,000"
+    },
+    {
+        "product_name": "Nike Air Max Alpha Trainer 5",
+        "category": "Men's Workout Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a01,249,000"
+    },
+    {
+        "product_name": "Nike Kiger 9",
+        "category": "Men's Trail-Running Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,199,000"
+    },
+    {
+        "product_name": "Nike Gripknit Phantom GX Elite Dynamic Fit AG By You",
+        "category": "Custom Football Boot",
+        "colors_count": "3 Colours",
+        "price": "Rp\u00a04,999,000"
+    },
+    {
+        "product_name": "Air Jordan 5 Retro SE Craft",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a03,269,000"
+    },
+    {
+        "product_name": "Nike Air Max TW",
+        "category": "Men's Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a02,118,000"
+    },
+    {
+        "product_name": "Nike Pegasus Trail 4 By You",
+        "category": "Custom Men's Trail-Running Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a02,669,000"
+    },
+    {
+        "product_name": "Jumpman MVP",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a02,629,000"
+    },
+    {
+        "product_name": "Nike Internationalist By You",
+        "category": "Custom Men's Shoe",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "Nike SB Force 58",
+        "category": "Skate Shoes",
+        "colors_count": "2 Colours",
+        "price": "Rp\u00a01,149,000"
+    },
+    {
+        "product_name": "Jordan Series ES",
+        "category": "Men's Shoes",
+        "colors_count": "4 Colours",
+        "price": "Rp\u00a01,299,000"
+    },
+    {
+        "product_name": "Nike Winflo 10",
+        "category": "Men's Road Running Shoes",
+        "colors_count": "7 Colours",
+        "price": "Rp\u00a01,549,000"
+    },
+    {
+        "product_name": "Nike SB Ishod Premium",
+        "category": "Men's Shoes",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a01,729,000"
+    },
+    {
+        "product_name": "Nike Dunk Low Unlocked By You",
+        "category": "Custom Shoes",
+        "colors_count": "8 Colours",
+        "price": "Rp\u00a02,379,000"
+    },
+    {
+        "product_name": "Nike Air Zoom Victory Tour 3 NRG",
+        "category": "Men's Golf Shoe (Wide)",
+        "colors_count": "1 Colour",
+        "price": "Rp\u00a03,169,000"
+    },
+    {
+        "product_name": "Jordan Stay Loyal 2",
+        "category": "Men's Shoes",
+        "colors_count": "5 Colours",
+        "price": "Rp\u00a01,819,000"
+    },
+    {
+        "product_name": "Nike Air Force 1 Mid By You",
+        "category": "Men's Custom Shoes",
+        "colors_count": "6 Colours",
+        "price": "Rp\u00a02,199,000"
+    }
+]
