@@ -3,22 +3,30 @@ import time
 import csv, json
 import datetime
 
+# define function to export data as .csv
 def export_to_csv(parsed_data, datetime): 
 	with open(f'data_{datetime}.csv', 'w', newline='') as csvfile: 
 		fields = ['product_name', 'category', 'colors_count', 'price'] 
 		writer = csv.DictWriter(csvfile, fieldnames=fields, quoting=csv.QUOTE_ALL) 
 		writer.writeheader() 
 		writer.writerows(parsed_data)
-            
+
+
+# define function to export data as .json
 def export_to_json(parsed_data, datetime):
     with open(f'data_{datetime}.json', 'w', encoding='utf-8') as jsonfile:
         json.dump(parsed_data, jsonfile, indent=4)
 
+
+# define function to extract data from website
 def parse_data():
 
+    # initialize maximum scrolls as input
     max_scrolls = int(input("Max scrolls: "))
 
+    # define 
     with sync_playwright() as p:
+        # initialize browser, launce driver, go to the url, and wait 5 secs
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
         page.goto('https://www.nike.com/id/w/mens-shoes-nik1zy7ok')
@@ -28,8 +36,9 @@ def parse_data():
         page.wait_for_selector('#skip-to-products')
 
         stream_boxes = None
+        num_scrolls = 0
 
-        num_scrolls = 0 
+        # looping to get all elements and store it to the stream_boxes, while looping perform the scroll process  
         while num_scrolls < max_scrolls:
             stream_boxes = page.locator("//div[contains(@class,'css-hvew4t')]/div[@data-testid]")
             stream_boxes.element_handles()[-1].scroll_into_view_if_needed()
@@ -43,8 +52,10 @@ def parse_data():
 
             print(f"Page {num_scrolls} completed")
 
+        # initialize list to store data
         parsed = []
 
+        # looping to extract data as text from selector
         for box in stream_boxes.element_handles():
             parsed.append(
                 {
@@ -59,9 +70,11 @@ def parse_data():
 
         now = datetime.datetime.today().strftime('%d-%m-%Y')
 
+        # export as .csv and .json
         export_to_json(parsed, now)
         export_to_csv(parsed, now)
 
+        # terminate the driver
         browser.close()
 
 def main():
